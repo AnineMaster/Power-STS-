@@ -1,0 +1,8 @@
+demucs
+faster-whisper
+srt
+pydub
+librosa
+soundfile
+gradio
+gdown
